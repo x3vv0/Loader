@@ -99,5 +99,5 @@ end)
 
 TextButton_2.MouseButton1Click:Connect(function()
     Close()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HELLLO1073/Anomiss/main/Games/Anomic/AnomissLite.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/x3vv0/Anomic-Custom/main/Big%20anomic%20script"))()
 end)
