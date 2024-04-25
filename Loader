@@ -1,4 +1,4 @@
---// Anomiss Anomic Loader - H4#0321   
+
 
 local AnomissPopup = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
